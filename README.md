@@ -1,5 +1,6 @@
 Program 1 – Lexical Analyzer with Symbol Table (LEX)
 File name: q1.l
+
 %{
 #include <stdio.h>
 #include <string.h>
@@ -72,8 +73,10 @@ int main()
 
     return 0;
 }
+
 Program 2 – Token Identification Using LEX
 File name: q2.l
+
 %{
 #include <stdio.h>
 %}
